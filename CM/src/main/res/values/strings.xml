@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CommunicationManager</string>
+    <string name="sendMsgButton">Send Message To All</string>
+</resources>
